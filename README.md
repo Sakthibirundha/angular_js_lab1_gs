@@ -1,0 +1,1 @@
+# angular_js_lab1_gs
